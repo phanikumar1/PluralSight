@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.30501.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PluralSight", "PluralSight\PluralSight.csproj", "{CE13AE43-A1B2-44CB-B3B2-3BBBC22AA6BA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PluralSightTestProject", "PluralSightTestProject\PluralSightTestProject.csproj", "{2CA8DF44-86C5-46DE-A6B7-D2F782CFB25A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{CE13AE43-A1B2-44CB-B3B2-3BBBC22AA6BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE13AE43-A1B2-44CB-B3B2-3BBBC22AA6BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE13AE43-A1B2-44CB-B3B2-3BBBC22AA6BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CA8DF44-86C5-46DE-A6B7-D2F782CFB25A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CA8DF44-86C5-46DE-A6B7-D2F782CFB25A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CA8DF44-86C5-46DE-A6B7-D2F782CFB25A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CA8DF44-86C5-46DE-A6B7-D2F782CFB25A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
